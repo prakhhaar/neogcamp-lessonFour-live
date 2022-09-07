@@ -4,7 +4,7 @@ For Mark6, we made this app which translates your language to the language used 
 1. HTML5
 2. CSS3
 3. Javascript
-## *My learing:*
+## *My learnings:*
 1. Used funtranslation API. 
 2. Used Postman for API testing.
 
